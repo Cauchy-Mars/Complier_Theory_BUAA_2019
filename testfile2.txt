@@ -1,0 +1,48 @@
+const int AA=30;
+const int CC=40;
+char BB;
+int func1(){
+    {
+        return (3+4);
+    }
+}
+char func2(int CC3,int DD44){
+    func1();
+    return ('c');
+}
+void func3(int EE555){
+    func2(AA,CC);
+}
+void func4(){
+    func3(AA);
+}
+void func5(){
+    const int ccc=45;
+}
+void func6(){
+    char ddd;
+}
+void main(){
+    const int a1 = -1, bb = 2;
+    const char c = '+', d = '-';
+    int e, g, n, o, p, q, r, s, t, u, v, w, x, y, z;
+    int f[33], h, i[444], j[5];
+    char kk, l[66];
+    char A, B, C, D, E, F, G, H, I, J, K, L, M, N, O, P, Q, R, S, T, U, V, W, X, Y, Z, _AaBbc;
+    printf(func1());
+    if (+7*f[8] < -(e/g)){
+        h = +99 + e;
+    }
+    if (o>p){
+        h = +99 + e;
+    }
+    if (q>=r){
+        h = +99 + e;
+    }
+    if(s!=t){
+        h = +99 + e;
+    }
+    if(u==v){
+        h = +99 + e;
+    }
+}

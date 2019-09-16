@@ -1,0 +1,31 @@
+void main(){
+    const int a1 = -1, bb = 2;
+    const int dd = 44;
+    const char c = '+', d = '-';
+    const char cc = 'd';
+    int e, g, n, o, p, q, r, s, t, u, v, w, x, y, z;
+    int f[33], h, i[444], j[5];
+    int ee;
+    char kk, l[66];
+    char A, B, C, D, E, F, G, H, I, J, K, L, M, N, O, P, Q, R, S, T, U, V, W, X, Y, Z, _AaBbc;
+    if (+7*f[8] < -(e/g)){
+        h = ++99 + e;
+    }
+    else;
+    while (45/8 + '*'/'m') scanf(n,p);
+    do {
+        printf(" !#$%&'()+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~");
+        } while (+3-3)
+    for(s=947;s;s=s+1){
+        printf("%d is bigger than 4",t);
+        printf(45+54);
+    }
+    for(s=0;s;s=s+0){
+        printf("%d is bigger than 3",t);
+        printf(45+54);
+    }
+    for(v=947;v<=w;w=w-1){
+        i[64]=v*w+z;
+    }
+}
+
